@@ -1,6 +1,6 @@
 SELECT LastName, FirstName, Mid, StatusType, BirthDate
 
-FROM customers
+FROM Customers
 
 WHERE StatusType = 'directly certified'
 
